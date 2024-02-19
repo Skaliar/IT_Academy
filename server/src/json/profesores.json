@@ -1,0 +1,19 @@
+[
+    {
+      "dni": 46649939,
+      "email": "pieroestevez@gmail.com",
+      "nombre": "Piero Estevez",
+      "direccion": "Av. Artigas 543",
+      "telefono": "093903094",
+      "activo": true
+    },
+    {
+        "dni": 12345678,
+        "email": "pepe@gmail.com",
+        "nombre": "Pepe Argento",
+        "direccion": "Av. Italia 980",
+        "telefono": "095588625",
+        "activo": false
+      }
+  ]
+  

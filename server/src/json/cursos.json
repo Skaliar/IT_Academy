@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "nombre": "FullStack",
+      "descripcion": "Curso programacion Backend y Frontend",
+      "costo": "5490",
+      "activo": true
+    },
+    {
+        "id": 2,
+        "nombre": "Base de Datos",
+        "descripcion": "Curso de Base de datos con SQL",
+        "costo": "2300",
+        "activo": false
+      }
+  ]
+  
